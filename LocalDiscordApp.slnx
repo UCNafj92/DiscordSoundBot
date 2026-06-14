@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EventBus.Abstractions/EventBus.Abstractions.csproj" />
+  <Project Path="EventBus.InMemory/EventBus.InMemory.csproj" />
+  <Project Path="FileReader.Abstractions/FileReader.Abstractions.csproj" />
+  <Project Path="FileReader.Windows/FileReader.Windows.csproj" />
+  <Project Path="LocalDiscordApp/LocalDiscordApp.csproj" />
+  <Project Path="WowCombatLog/WowCombatLog.csproj" />
+</Solution>
